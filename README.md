@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # House Prices Prediction – Machine Learning Project
+=======
+ #House Prices Prediction – Machine Learning Project
+>>>>>>> 04efab678929b1416165ffe4b0e0af153bdde628
 
 This project focuses on predicting house sale prices using machine learning techniques.  
 The solution is implemented in **Python** using **Jupyter Notebook** and trained on the **Kaggle House Prices dataset**.
@@ -88,4 +92,10 @@ house-prices-ml/
 
 ### 1️⃣ Clone the repository
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/ganeshmpsmg/house-prices-ml.git
+=======
+git clone https://github.com/ganeshmpsmg/house-prices-ml.git
+
+
+>>>>>>> 04efab678929b1416165ffe4b0e0af153bdde628
